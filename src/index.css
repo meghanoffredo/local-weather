@@ -10,8 +10,8 @@ body {
 
 .App {
   background-image: url(./Assets/cold.jpeg);
-  background-repeat: no-repeat;
-  background-position: center;
+  background-size: cover;
+  background-position: bottom;
   transition: 0.4s ease-out;
 }
 
