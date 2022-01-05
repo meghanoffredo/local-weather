@@ -10,17 +10,13 @@ body {
 
 .App {
   background-image: url(./Assets/cold.jpeg);
-  background-size: cover;
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: center;
   transition: 0.4s ease-out;
 }
 
 .App.warm {
   background-image: url(./Assets/warm.jpeg);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: bottom;
 }
 
 main {
