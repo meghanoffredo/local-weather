@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/local-weather/static/css/main.1654ac32.css",
+    "main.js": "/local-weather/static/js/main.d9fb55f2.js",
+    "static/media/warm.jpeg": "/local-weather/static/media/warm.55daaf02188d63f7ac60.jpeg",
+    "static/media/cold.jpeg": "/local-weather/static/media/cold.801902745e6532eca1f2.jpeg",
+    "index.html": "/local-weather/index.html",
+    "main.1654ac32.css.map": "/local-weather/static/css/main.1654ac32.css.map",
+    "main.d9fb55f2.js.map": "/local-weather/static/js/main.d9fb55f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1654ac32.css",
+    "static/js/main.d9fb55f2.js"
+  ]
+}
