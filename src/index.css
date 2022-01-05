@@ -18,6 +18,9 @@ body {
 
 .App.warm {
   background-image: url(./Assets/warm.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
 }
 
 main {
